@@ -1,0 +1,25 @@
+#counter-label{
+   display: block;
+   text-align: center;
+   font-size: 12em;
+}
+
+.button-grp{
+  text-align: center;
+  margin: 3px;
+}
+
+
+
+
+.button{
+    font-size: 1.5em;
+    padding: 10px 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(100, 98, 100);
+}
+
+.button:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
